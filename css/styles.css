@@ -1,10 +1,10 @@
-.container, .ue1, pre{
-    padding:2rem;
+.container, .ue1, pre, label{
+  padding:5% 0 0 2rem;
 }
-b{
-    color:red;
+b{    
+  color:red;
 }
 i{
-    color:green;
+  color:green;
 }
 
